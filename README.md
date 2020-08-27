@@ -1,4 +1,4 @@
-GridDB PHP Client
+GridDB PHP Clienta
 
 ## Overview
 
